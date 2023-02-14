@@ -1,7 +1,7 @@
 Hi there 👋 I'm Mihail 👨‍💻
 ---
 ### :man_technologist: About Me :
-I am a Beginner Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Beginner Front End Developer <img src="https://giphy.com/stickers/mrurbinaco-data-web-design-mr-urbina-HvekzBaREHxlEwvlOS" width="30">
 
 
 ---
