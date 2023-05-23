@@ -20,5 +20,5 @@ I am a Beginner Full Stack Developer <img src="https://media4.giphy.com/media/v1
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title=Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/tree/master/icons/mongodb" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
 </div>
